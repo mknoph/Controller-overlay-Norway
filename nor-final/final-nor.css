@@ -74,7 +74,7 @@
 
 .xbox .quadrant {
     position: absolute;
-    background: url(quadrant-nor.png);
+    background: url(quadrant-nor-2.png);
     height: 45px;
     width: 45px;
     top: 258px;
@@ -111,7 +111,7 @@
 }
 
 .xbox .back, .xbox .start {
-    background: url(start-select-nor.png);
+    background: url(start-select-nor-2.png);
     width: 33px;
     height: 33px;
     opacity: 0;
@@ -185,7 +185,7 @@
 
 .xbox .stick {
     position: absolute;
-    background: url(stick-nor.png);
+    background: url(stick-nor-2.png);
     background-position: -85px 0;
     height: 83px;
     width: 83px;
