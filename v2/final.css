@@ -8,7 +8,7 @@
 }
 
 .xbox.white {
-    background: url(base-white-nor-2.png);
+    background: url(base-white.png);
 }
 
 .xbox.disconnected {
@@ -29,7 +29,7 @@
 .xbox .trigger {
     width: 88px;
     height: 121px;
-    background: url(trigger-nor.png);
+    background: url(trigger.png);
     opacity: 0;
 }
 
@@ -46,7 +46,7 @@
 .xbox .bumper {
     width: 170px;
     height: 61px;
-    background: url(bumper-nor.png);
+    background: url(bumper.png);
     opacity: 0;
 }
 
@@ -74,7 +74,7 @@
 
 .xbox .quadrant {
     position: absolute;
-    background: url(quadrant-nor-2.png);
+    background: url(quadrant.png);
     height: 45px;
     width: 45px;
     top: 258px;
@@ -111,7 +111,7 @@
 }
 
 .xbox .back, .xbox .start {
-    background: url(start-select-nor-2.png);
+    background: url(start-select.png);
     width: 33px;
     height: 33px;
     opacity: 0;
@@ -140,7 +140,7 @@
 
 .xbox .button {
     position: absolute;
-    background: url(abxy-nor-2.png);
+    background: url(abxy.png);
     width: 48px;
     height: 48px;
 }
@@ -185,7 +185,7 @@
 
 .xbox .stick {
     position: absolute;
-    background: url(stick-nor-3.png);
+    background: url(stick.png);
     background-position: -85px 0;
     height: 83px;
     width: 83px;
@@ -214,7 +214,7 @@
 }
 
 .xbox .face {
-    background: url(dpad-nor.png);
+    background: url(dpad.png);
     position: absolute;
     opacity: 0;
 }
