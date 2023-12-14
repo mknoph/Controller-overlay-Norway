@@ -146,7 +146,7 @@
 }
 
 .xbox .button.pressed {
-    background-position-y: -0px;
+    background-position-y: -48px;
     margin-top: 5px;
     opacity: 1;
 }
